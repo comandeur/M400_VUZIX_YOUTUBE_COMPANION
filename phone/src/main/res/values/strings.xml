@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M400 Cast</string>
+    <string name="share_target_label">Play on M400</string>
+    <string name="main_hint">Share a video from the YouTube app, or paste a YouTube link below and press Send.</string>
+    <string name="url_hint">https://youtu.be/…</string>
+    <string name="send_button">Send to M400</string>
+    <string name="no_youtube_link">No YouTube link found in the shared text.</string>
+    <string name="invalid_url">That doesn\'t look like a YouTube link.</string>
+    <string name="companion_missing">Vuzix Companion app is not installed on this phone. Install it from the Play Store and pair it with your M400.</string>
+    <string name="not_linked">Phone is not paired with the M400. Open the Vuzix Companion app and pair it first.</string>
+    <string name="not_connected">M400 is paired but not connected right now. Make sure the glasses are on and the Companion app shows them as connected.</string>
+    <string name="sent_ok">Sent to M400 ✓</string>
+    <string name="sent_fail">Could not send to M400. Check the connection and try again.</string>
+    <string name="status_unavailable">Status: Vuzix Companion app not installed</string>
+    <string name="status_not_linked">Status: not paired with M400 (open Vuzix Companion app)</string>
+    <string name="status_not_connected">Status: paired, but M400 not connected</string>
+    <string name="status_connected">Status: connected to M400 ✓</string>
+</resources>

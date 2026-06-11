@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M400 YouTube</string>
+    <string name="status_ready">Ready ✓ — share a video from your phone and it will start playing here automatically. Open YouTube below to sign in to your Google account (Premium = no ads).</string>
+    <string name="status_need_overlay">One-time setup: allow \"Display over other apps\" so videos sent from your phone can open automatically.</string>
+    <string name="grant_overlay">Allow auto-open (one-time setup)</string>
+    <string name="open_youtube">Open YouTube / Sign in</string>
+</resources>
